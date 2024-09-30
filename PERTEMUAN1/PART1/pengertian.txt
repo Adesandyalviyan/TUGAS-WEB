@@ -1,0 +1,9 @@
+HTML (Hypertext Markup Language) adalah bahasa pemrograman atau pengkodean yang digunakan untuk membuat halaman website.yang terdiri dari kumpulan macam-macam tag.
+
+tag adalah perintah dalam HTML yang memiliki aturan pembuka dan penutup. contoh: body, h1, p, dll.
+
+tag h
+tag <h> atau tag heading adalah elemen HTML yang digunakan untuk membedakan judul dan subjudul halaman web dari konten lainya
+
+tag p 
+tang <p> digunakan untuk mendefinisikan paragraf 
